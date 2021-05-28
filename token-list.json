@@ -1,0 +1,25 @@
+{
+  "name": "ZOOcoin",
+  "logoURI": "https://github.com/zooscoin/zoos-token-list/blob/main/logo.png",
+  "keywords": [
+     "zoo",
+     "ZOO",
+     "ETH"
+    ],
+    "timestamp": "2021-05-27T16:34:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x37dEE95F7Dfef87F3d1e307Ac1e5F65326098d1D",
+      "name": "zoocoin",
+      "symbol": "ZOO",
+      "decimals": 13,
+      "logoURI": "https://github.com/zooscoin/zoos-token-list/blob/main/logo1.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
