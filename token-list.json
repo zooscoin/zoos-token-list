@@ -1,17 +1,17 @@
 {
-  "name": "ZOOcoin",
+  "name": "ZOO",
   "logoURI": "https://raw.githubusercontent.com/zooscoin/zoos-token-list/main/zoocoinlogo.svg",
   "keywords": [
      "zoo",
      "ZOO",
-     "ETH"
+     "Zoo"
     ],
     "timestamp": "2021-05-27T16:34:34.305Z",
     "tokens": [
       {
       "chainId": 1,
       "address": "0x37dEE95F7Dfef87F3d1e307Ac1e5F65326098d1D",
-      "name": "ZOOcoin",
+      "name": "ZOO",
       "symbol": "ZOO",
       "decimals": 13,
       "logoURI": "https://raw.githubusercontent.com/zooscoin/zoos-token-list/main/zoocoinlogo.svg"
